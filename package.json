@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "prettier": "^2.4.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  }
+}
