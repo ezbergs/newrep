@@ -1,0 +1,13 @@
+{
+  "standart": {
+    "login": "standard_user",
+    "password": "secret_sauce",
+    "firstName": "John",
+    "lastName": "Doe",
+    "zipCode": "LV1234"
+  },
+  "problem": {
+    "login": "problem_user",
+    "password": "secret_sauce"
+  }
+}
